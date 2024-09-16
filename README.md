@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilliamDeGuzman
-- I don't know what I'm doing
+- I make code sometimes
 
 <!---
 WilliamDeGuzman/WilliamDeGuzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
